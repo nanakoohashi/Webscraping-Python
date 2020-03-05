@@ -8,3 +8,4 @@ This repository unique US Census Bureau website links scraped from their website
 - urllib
 - re
 - csv
+## Steps
