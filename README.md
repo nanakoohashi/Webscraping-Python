@@ -9,3 +9,5 @@ This repository unique US Census Bureau website links scraped from their website
 - re
 - csv
 ## Steps
+1. Open a Python program.
+
