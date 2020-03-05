@@ -10,4 +10,5 @@ This repository unique US Census Bureau website links scraped from their website
 - csv
 ## Steps
 1. Open a Python program.
+2. Using bs4, import the BeautifulSoup package. Also import the urllib, re, and csv libraries.
 
