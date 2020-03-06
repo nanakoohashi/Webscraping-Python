@@ -15,3 +15,4 @@ This repository unique US Census Bureau website links scraped from their website
 4. Create a Beautiful Soup object and call the BeautifulSoup constructor, and pass in r using the ‘xlml’ parser.
 5. Use the prettify function to add some structure and make it easy to read.
 6. Create an empty list.
+7. Create a for loop for links in soup, call the find all method and then pass in a string that reads “a”. For each of the “a” tags we want to append the links that have an attribute of ‘href’ to the empty list.
