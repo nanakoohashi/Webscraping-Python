@@ -19,3 +19,4 @@ This repository unique US Census Bureau website links scraped from their website
 ## References
 Martelli, A. (2010, January 18). Create a .csv file with values from a Python list [Online Forum Comment]. Retrieved from https://stackoverflow.com/questions/2084069/create-a-csv-file-with-values-from-a-python-list 
 Pierson, L. (2017). Web scrape in practice. Retrieved from https://www.linkedin.com/learning/python-for-data-science-essential-training/web-scrape-in-practice?u=2045532 
+United States Census Bureau (n.d.). Population and Housing Unit Estimates. Retrieved from https://www.census.gov/programs-surveys/popest.html 
