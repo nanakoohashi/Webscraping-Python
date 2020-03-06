@@ -17,3 +17,4 @@ This repository unique US Census Bureau website links scraped from their website
 6. Create an empty list.
 7. Create a for loop for links in soup, call the find all method and then pass in a string that reads “a”. For each of the “a” tags we want to append the links that have an attribute of ‘href’ to the empty list.
 ## References
+Martelli, A. (2010, January 18). Create a .csv file with values from a Python list [Online Forum Comment]. Retrieved from https://stackoverflow.com/questions/2084069/create-a-csv-file-with-values-from-a-python-list 
